@@ -1,0 +1,199 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>England's happiness: or, The only way to make a nation truly happy proved from the testimony of the Holy Scriptures. By an English man, who heartily desires the peace and prosperity of the nation.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1687</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38400</idno>
+            <idno type="STC">Wing E2978B</idno>
+            <idno type="STC">ESTC R216765</idno>
+            <idno type="EEBO-CITATION">99828486</idno>
+            <idno type="PROQUEST">99828486</idno>
+            <idno type="VID">32913</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38400)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32913)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1964:07)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>England's happiness: or, The only way to make a nation truly happy proved from the testimony of the Holy Scriptures. By an English man, who heartily desires the peace and prosperity of the nation.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by J. Astwood for the authour,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1687]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Happiness --  Religious aspects --  Early works to 1800.</term>
+               <term>Patriotism --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:32913:1" rendition="simple:additions"/>
+            <head>
+               <hi>England's Happineſs:</hi> OR, The only way to make a Nation truly Hap<g ref="char:EOLhyphen"/>py, Proved from the teſtimony of the Ho<g ref="char:EOLhyphen"/>ly Scriptures.</head>
+            <head type="sub">By an Engliſh-man, who heartily Deſires the Peace and Proſperity of the Nation.</head>
+            <p>HAppineſs is the one thing deſired by all perſons, and of this deſirable Subject have I now written: Of Happi<g ref="char:EOLhyphen"/>neſs there is two ſorts. 1. Temporal Happineſs, endu<g ref="char:EOLhyphen"/>ring only for this Life. 2. Eternal Happineſs, enduring for ever. The firſt of theſe I have treated on at this time, in this Shoet; and this Happineſs is either <hi>National</hi> or <hi>Perſonal.</hi> The firſt of theſe I have made the Subject of my Thoughts and Pens Imployment; namely, the only means to make a Kingdom or Nation truly happy in this Life; which is ſo deſirable, that it is ſuffi<g ref="char:EOLhyphen"/>cient to cauſe all ſorts of Perſons that dwell in the land, high and low, rich and poor to rejoyce together: This Jewel (if it can be found) is of far greater value than the Philoſophers Stone, for that inricheth but very few, becauſe but few obtain it, but this may enrich a whole Nation at once, and make their Lives truly happy in this life, ſo far as Happineſs is here attainable; and to enjoy this general Happineſs, we muſt do theſe three things:</p>
+            <p>
+               <hi>Firſt,</hi> Find out what it is.</p>
+            <p>
+               <hi>Secondly,</hi> How it may be obtained.</p>
+            <p>
+               <hi>Thirdly,</hi> Endeavour to obtain it.</p>
+            <p>The two firſt of theſe I have undertaken to do, according to that meaſure of light and underſtanding which I have received of God; but
+<pb n="2" facs="tcp:32913:2"/>the third is the work of others as well as my ſelf; namely, of the whole Nation in general.</p>
+            <p n="1">(1.) There is not any one Perſon of underſtanding to be concerned in any buſineſs in the Nation, but is, or ought to be concerned to get this Jewel that will make the whole Nation happy: And this precious and deſirable Jewel I underſtand to be a ſincere and hearty Love be<g ref="char:EOLhyphen"/>tween the Rulers and the People, and between all the People towards each other, that ſo it may run through the Nation from the higheſt to the loweſt, and have its fruits and effects in every work that is done; this will cauſe the Rulers to do all that lyeth in them for the Safety, Comfort and Proſperity of their Subjects; and alſo the Subjects to do all that lyeth in them alwayes for the Comfort and well being of their Rulers, that as in the natural Body the Head is conſidering and find<g ref="char:EOLhyphen"/>ing out what is moſt neceſſary for the whole Body, that it may be enjoyed; and the Hands and Feet are helping and carrying the Head, and all the Members of the Body are ready to help and aſſiſt each other in their places: So will it be in the body Politick, where this true and ſincere Love is that we are ſpeaking of, in all perſons toward each other. The Rulers in ſuch a Nation need not fear any hurt or detri<g ref="char:EOLhyphen"/>ment from their Subjects, neither need the Subjects fear any wrong from their Rulers, nor from each other, as St. <hi>John</hi> ſaith, 1 <hi>Joh.</hi> 4.18. <hi>There is no Fear in Love,</hi> but <hi>perfect Love caſteth out Fear:</hi> Such a ſtate hath a reſemblance of the holy Mountain of God, ſpoken of <hi>Iſa.</hi> 11.9. <hi>They ſhall not hurt nor deſtroy in all my holy Mountain,</hi> ſaith the Lord: Such a Nation is according to <hi>David</hi>'s Prayer, <hi>Pſal.</hi> 144.14, 15. <hi>That there be no complaining in our Streets;</hi> and then he concludes, <hi>Happy is the People that is in ſuch a Caſe:</hi> It may be ſaid of ſuch a People or Nation, as is ſaid of or concerning the Spouſe, <hi>Cant.</hi> 1.9. <hi>I have com<g ref="char:EOLhyphen"/>pared thee to a company of Horſes in Pharaoh's Chariot;</hi> they are ſo united together by the bands of Love, that they are all labouring together for the good and proſperity of each other, as for their own, according to that good Exhortation of the Apoſtle to the <hi>Philippians,</hi> chap. 2. v. 2, 4. <hi>Having the ſame Love, being of one accord, of one mind; look not every man on his own things, but every man alſo on the things of others:</hi> Thus in any Nation or people where this true and ſincere Love is dwelling in every one, it cauſeth every one to have equal Reſpect to others good as to their own, and ſuch Love dwelling and abiding in every one to<g ref="char:EOLhyphen"/>ward each other, hath this great Bleſſing attending it, <hi>viz.</hi> Thore is much of the Preſence of God with ſuch a People, 1 <hi>Joh.</hi> 4.16. <hi>God is Love, and he that dwelleth in love dwelleth in God, and God in him:</hi> See what a great meaſure of the Preſence of God ſuch are ſaid to have;
+<pb n="3" facs="tcp:32913:2"/>and this is ſo needful a Bleſſing for any People, in order to their be<g ref="char:EOLhyphen"/>ing happy, that <hi>Moſes</hi> when he was the Governour and Leader of <hi>Iſra<g ref="char:EOLhyphen"/>el,</hi> ſaith unto God, <hi>Exod.</hi> 33.15. <hi>If thy Preſence go not with us, carry us not up hence;</hi> knowing that the Preſence of God was ſo needful for him, to teach him to Govern, and alſo to teach his People to be walking orderly under his Government, and to bleſs them with all need<g ref="char:EOLhyphen"/>ful Bleſſings, that it was better for them to be alwayes in the Wilder<g ref="char:EOLhyphen"/>neſs with the Preſence of God, than to go to their Promiſed Land without it. Therefore let none imagine that there can be any true and real Happineſs to any People, where this true and real Love is want<g ref="char:EOLhyphen"/>ing, for there is no way but this to fill the Nation with Peace and Plen<g ref="char:EOLhyphen"/>ty; and where this Love is wanting, I may ſay to ſuch a State as the Apoſtle ſaith to the Church, <hi>Gal.</hi> 5.15. <hi>If ye bite and devour one another, take heed ye be not Conſumed one of another:</hi> Chriſt hath ſaid, <hi>Mat.</hi> 12.28. <hi>Every Kingdom divided againſt it ſelf is brought to Deſolation;</hi> and ſad ex<g ref="char:EOLhyphen"/>perience hath made this plain and evident in many Ages, by ſhedding of much blood in ſeveral parts of the World, as might be inſtanced if need were; but I ſhall not go ſo far to fetch Examples in this Caſe, ſee<g ref="char:EOLhyphen"/>ing we have had ſuch ſad experience at home in our own Nation, of the great want of this true and real Love amongſt us in this land, and in our dayes too, which hath cauſed thoſe ſad Calamities amongſt us, when the Inhabitants of this land have ſhed the blood of each other, as if they were without natural affection to their own Countrey-men: And therefore to make this Nation truly happy, to prevent thoſe Calami<g ref="char:EOLhyphen"/>ties for the future, and to enjoy thoſe great and choice Bleſſings which this excellent Jewel will bring along with it, if it can be obtained, let every one of us labour therefore for it, as much as in us lyeth; for the Nation is made up of particular perſons; and therefore if every one can but get it in themſelves, it will be all over the Nation, and the Nation in general, and every perſon in particular will find and en<g ref="char:EOLhyphen"/>joy the bleſſed effects thereof.</p>
+            <p n="2">(2.) And now come we to the ſecond thing Promiſed to be done, <hi>viz.</hi> To ſhew the way by which this Jewel may be obtained. And,</p>
+            <p>
+               <hi>Firſt,</hi> If we would injoy this great Happineſs, we muſt all take ſpe<g ref="char:EOLhyphen"/>cial heed to the Law of God: It was the breach of Gods Law that at the firſt brought Enmity into the World; and a due obſerving Gods Law, is an excellent means to root it up, and drive it out of the World again; for the Laws of God are binding every one to this great duty of Love, and one great reaſon why there is no more Love amongſt men, is becauſe the Laws of God are no more regarded; and take notice by the way, that by the Laws of God I intend all the Appoint<g ref="char:EOLhyphen"/>ments
+<pb n="4" facs="tcp:32913:3"/>of God, ſo far as they are make known unto us: for that Man or Woman that maketh Conſcience to perform their duty toward God, will certainly make Conſcience of their duty towards men alſo, and there<g ref="char:EOLhyphen"/>fore will deſerve to be beloved; and if we love God and keep his Com<g ref="char:EOLhyphen"/>mandments, we ſhall certainly love our own fellow Creatures and Coun<g ref="char:EOLhyphen"/>trey-men; for the more we are acquainted with God, the more we ſhall learn to Love, <hi>For God is Love,</hi> 1 Joh. 3.8. And the whole ſcope and ſubſtance of all the Commands of God relating to men, between each other, either in requiring them not to wrong each other, or to do good one for another, is Injoyning us to this great Duty of Love; and to ſhew forth, in Obedience to Gods Laws, the fruits and effects of our Love to Men: See <hi>Mat.</hi> 22.35, — 40. We find one there ask<g ref="char:EOLhyphen"/>ing Chriſt which is the great Commandment in the Law, Chriſt's an<g ref="char:EOLhyphen"/>ſwer is, <hi>Thou ſhalt love the Lord thy God with all thy Heart, and with all thy Soul, and with all thy Mind; this is the firſt and great Commandment, and the ſecond is like unto it; Thou ſhalt love thy Neighbour as thy ſelf; on theſe two hang all the Law and the Prophets:</hi> Mark here how Chriſt ſets forth Love to God.</p>
+            <p n="1">1. In the Manner, how it muſt be, <hi>viz. With all the Heart;</hi> and as if that Expreſſion were not full enough, he adds, <hi>With all the Soul;</hi> and as if that were too little, he adds, <hi>With all the Mind.</hi>
+            </p>
+            <p n="2">2. He ſets it forth in its Excellency, <hi>This is the great Commandment;</hi> and then (which is much to our purpoſe) he ſaith, <hi>The ſecond is like unto it;</hi> How? not in reſpect of its Object, but in reſpect of its Na<g ref="char:EOLhyphen"/>ture; it muſt be of a large extent, and therefore to be meaſured by our Love to <hi>our ſelves,</hi> which Love is that moſt excellent Jewel I am preſſing you to get, every one in his own Heart, that we may all have it in Obedience to this great Command, all over the Nation, <hi>viz. To Love our Neighbours as our ſelves:</hi> Which Duty is ſo much wanted, that ſome can feed themſelves beyond reaſon, whilſt their poor Neigh<g ref="char:EOLhyphen"/>bours are ready to periſh with Hunger; ſome can drink Wine to Ex<g ref="char:EOLhyphen"/>ceſs and Drunkenneſs, whilſt their poor Neighbours drink Water; and ſome Cloath themſelves with great ſuperfluities, whilſt their poor Neighbours are like to periſh with Cold, not regarding this great Com<g ref="char:EOLhyphen"/>mand, <hi>Love thy Neighbour as thy ſelf:</hi> Yea, ſome are like the Law<g ref="char:EOLhyphen"/>yers ſpoken of <hi>Luke</hi> 11.46. Whom Chriſt ſaith, <hi>Lade men with burthens grievous to be born, and touch them not themſelves with one of their Fingers.</hi> Some alſo belye, reproach, and falſly accuſe others, when they will not themſelves bear the leaſt Injury from any Man; all theſe, and ma<g ref="char:EOLhyphen"/>ny other, do live in Diſobedience to this great Command, <hi>Love thy Neighbour as thy ſelf:</hi> Which, were it obſerved, would in its fruits and
+<pb n="5" facs="tcp:32913:3"/>effects, make much for the Comfort and well being of the whole Na<g ref="char:EOLhyphen"/>tion; for every one in the Nation loving others as themſelves, they would ſeek as much for the Comfort, Proſperity, and well Being of others as for their own; this would prevent therefore all the wrong<g ref="char:EOLhyphen"/>ing, defrauding and cheating each other, that is too much uſed now a dayes; this would prevent alſo all the reproaching and reviling each other, this would alſo prevent all the betraying and ſeeking to kill one another; nay, were this obſerved in all places, it would prevent all the Oppreſſion and Cruelty that is uſed in ſome parts of the World, and this would cauſe all perſons to be careful not to grieve each other, as they would have others be careful not to grieve them; they would alſo Pity and Comfort all that are in Affliction, as they would be Pityed and Comforted, if it were their own Caſe: Theſe are the excellent effects of having reſpect to the Laws of God in this matter.</p>
+            <p>
+               <hi>Secondly,</hi> If we would enjoy this precious Jewel, to make the Nati<g ref="char:EOLhyphen"/>on happy, we muſt put on <hi>Humility,</hi> Coloſ. 3.12. <hi>Put on therefore bowels of mercy, kindneſs, humbleneſs of Mind:</hi> See how the Apoſtle here joyns theſe Graces together, as if it were impoſſible for Mercy and Kindneſs to be in any Perſon without Humility: Proud perſons are full of Wrath and Revenge; if they do but think themſelves the leaſt Injured, it quickly removes their Love, but where Humility is in the Heart, it is not ea<g ref="char:EOLhyphen"/>ſily moved: They that are too much lifted up in themſelves by Pride, beyond what they ought, do generally too much undervalue others beyond what they ought: hence it comes to paſs, that Subjects have ſometimes undervalued their Rulers, inſomuch that they have preſu<g ref="char:EOLhyphen"/>med not only to ſpeak againſt them without Cauſe, but alſo to act againſt them ſometimes, to the great-diſturbance of the Nation where they dwelt, as ſad experience hath ſhewn; hence alſo it hath ſome<g ref="char:EOLhyphen"/>times come to paſs, that Rulers in ſome Countreys have too little va<g ref="char:EOLhyphen"/>lued the Lives of their Subjects, being over perſwaded thereto by ſome proud Perſons, or Pride in themſelves, as might be proved at large, but I ſhall inſtance but two: What a dreadful ſlaughter had King <hi>Ahaſhuerus</hi> made in his Kingdom, had not God prevented it; when he ſent forth to deſtroy in one day all the <hi>Jews,</hi> both young and old, little Children and Women, he being Counſel'd and moved thereto by proud <hi>Haman?</hi> as is recorded <hi>Eſth.</hi> 3. Do but conſider alſo how low <hi>Benhadad</hi> King of <hi>Syria</hi> valued his Subjects, 1 <hi>Kings</hi> 2.20. when he could not have his Proud humour ſatisfied by the King of <hi>Iſrael,</hi> he threatens he would cauſe more men to follow him to Battle, than ſhould be ſufficient to take up the duſt of <hi>Samaria</hi> in their hands. Theſe are that ſad effects of Pride, in oppoſition to true Love, therefore Humility
+<pb n="6" facs="tcp:32913:4"/>is very uſeful for all Perſons, in the Caſe we are ſpeaking of; namely, in order for all Perſons to Love others as themſelves, and to ſeek the good of each other as their own, and ſo to make the Nation truly Happy.</p>
+            <p>
+               <hi>Thirdly,</hi> As a further Direction in this Caſe, let us every one enter into a deep ſenſe and conſideration,</p>
+            <p n="1">1. Of the great worth and excellency of this great Injoyment, that ſo we may be kept on in our Duty, every one labouring to obtain it, what<g ref="char:EOLhyphen"/>ſoever Temptation we may meet with in this World to the contrary.</p>
+            <p n="2">2. Conſider, that ſo long as any Perſon is living in the World with<g ref="char:EOLhyphen"/>out this true and real love to his fellow Creatures, he is living in the breach of one of the great Laws of God, and can expect no true and real Bleſſing; and therefore the gain that is gotten by wronging, cheat<g ref="char:EOLhyphen"/>ing and defrauding thoſe that God hath commanded us thus to Love, may juſtly be expected to be blaſted by a Curſe from Heaven upon it, or elſe to be made a Curſe to ſuch that thus do in their enjoyment of it, if it be continued unto them.</p>
+            <p n="3">3. Conſider, that Chriſt hath ſaid, <hi>Mat.</hi> 7.2. <hi>With what meaſure ye mete, it ſhall be meaſured to you again:</hi> Therefore knowing the Word of the Lord is true, we ſhould always think, (when we meet with any Temptation to wrong others) if I do this evil, God will cauſe the like, or as great an evil to be done to me; and therefore we ſhould from this conſideration, nouriſh and keep alive the ſeeds of Grace, Love and Fa<g ref="char:EOLhyphen"/>vour in our Hearts towards others, as we would be beloved, and en<g ref="char:EOLhyphen"/>joy favour and kindneſs from others: And we ſhould alſo bruiſe and cruſh the very Seeds, and quench the leaſt Spark of Envy and Malice that would appear in us againſt others, as we would not have others hate and envy us.</p>
+            <p n="4">4. Conſider, that if this whole Nation in general will not be perſwad<g ref="char:EOLhyphen"/>ed to this great Duty, in order to enjoy this great Bleſſing, (which is very deſirable they may, if it can be obtained) yet it will be a great happineſs to all thoſe that do get into the ſpirit of Love we are ſpeaking of, and that will appear from that Union they ſhall have with God, 1 <hi>Joh.</hi> 4.16. <hi>God is Love, he that dwelleth in Love, dwelleth in God, and God in him;</hi> and thoſe that have ſuch near Union with God, muſt needs be happy; Though there ſhould be any in the Nation that ſhould not regard theſe directions, nor eſteem this excellent enjoyment and happineſs, but for want of this true Love ſhould endeavour to wrong others; yet theſe that are walking in Union with God in this Love, it ſhall be well with them in the worſt of times: See <hi>Iſa.</hi> 3.5. we read there of a time <hi>When the People ſhall be oppreſſed every one by
+<pb n="7" facs="tcp:32913:4"/>another, and every one by his Neighbour;</hi> but God ſaith, <hi>ver.</hi> 10. <hi>Say to the Righteous, is ſhall be well with them, for they ſhall eat the fruit of their doings:</hi> Pray take notice, their doings were ſuch as we are ſpeaking of, that will make a People happy; and it appears from this Word of God, that the doings of others ſhould not make them miſerable, though it were ſuch an evil time, they ſhould be happy: And had all the Nation been in their Duty, as they were, it might have been a happy Nation.</p>
+            <p n="5">5. And laſtly, Conſider the great Calamities and Miſchiefs that have come upon other parts of the World, and this Nation alſo in times paſt, for want of this true Love we are ſpeaking of; and what evils may yet befall us for time to come (if it ſhould yet be wanting) God only knows. Theſe Conſiderations, if they are duly weighed, and well conſidered, may be a means to put us all upon our Duties, and ſo be a means to make this Nation truly happy, with all that Peace, Plenty and Happineſs that can be obtained in this Life.</p>
+            <p>And now to Conclude, that no Impediment may hinder this great Duty and Bleſſing in this Nation, I have here ſet before you an Inſtance or two of very great and undeſerved Love, for Imitation.</p>
+            <p>The <hi>Firſt</hi> is, the Love of God, which is the greateſt Love that ever was, or will be in the World, which dwells plentifully in the Father, and in the Son, <hi>Luke</hi> 6.35, 36. the Love of God the Father is ſet forth for our Pattern and Imitation thus: <hi>Love ye your Enemies, and do good, and lend, hoping for nothing again; and your reward ſhall be great, and ye ſhall be the Children of the higheſt; for he is kind unto the unthankful, and to the evil: Be ye therefore merciful, as your Father alſo is merciful.</hi> And the Love of Chriſt the Son of God, is alſo far beyond the Love of Man; <hi>For greater Love hath no Man, than that a Man lay down his life for his Friend,</hi> Joh. 15.13. <hi>But when we were Enemies, Chriſt dyed for us,</hi> Rom. 5.8. Then let me ſay to my honoured Countrey-men, as St. <hi>John</hi> ſaith in his firſt Epiſtle, <hi>chap.</hi> 4. <hi>v.</hi> 11. <hi>Beloved, if God ſo lo<g ref="char:EOLhyphen"/>ved us, we ought alſo to love one another.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> Another Pattern and Example of Love (my beloved Coun<g ref="char:EOLhyphen"/>try men) is to us that are Subjects; in the King, whom God hath given the Government of this Nation to, whom, though he had many Enemies in this Nation, yet ſince God hath given him the Kingdom, he hath ſhewed himſelf kind and loving unto all Men. Now then, ſeeing Love beins at the Throne, my dearly beloved Country-men, I beſeech you, let it oblige us that are Subjects to manifeſt our true, hearty and ſincere Love to our King, and to each other in general, by all thoſe wayes and means whereby we can demonſtrate it to be
+<pb n="8" facs="tcp:32913:5"/>ſuch; that ſo this true and hearty Love running through the whole Nation, and having its fruits and effects in every work that is done, this Nation may be made truly Happy, with all the Happineſs that is attainable in this life: Which, that it may be, ſhall be the hearty Prayer of your Countrey-man:</p>
+            <lg>
+               <l>
+                  <hi>That King and People may be bleſt,</hi>
+               </l>
+               <l>
+                  <hi>And live in Love, in Peace and Reſt,</hi>
+               </l>
+               <l>
+                  <hi>Is the Deſire of his Heart,</hi>
+               </l>
+               <l>
+                  <hi>Who doth to you theſe Lines impart.</hi>
+               </l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="notice">
+            <head>REASONS why the Authour Printed theſe Lines, and put not his Name to them.</head>
+            <p>
+               <hi>Firſt,</hi> HE Printed it, 1. Becauſe of that great Deſire he hath for the good of the Nation. 2. Becauſe of that great need there is of Love now in this juncture of Affairs. 3. That he might inprove his own Talent, ſo as not to be aſhamed when Chriſt cometh.</p>
+            <p>
+               <hi>Secondly;</hi> He put not his Name to it, leaſt any ſhould think he did it more becauſe he would be eſteemed than to do good; and this I hope may take off all occaſions of Offence.</p>
+            <q>
+               <hi>Gloria Deo, Pax Populo.</hi>
+            </q>
+            <closer>Let the Nation have Good, and God the Glory.</closer>
+         </div>
+         <div type="colophon">
+            <p>
+               <floatingText xml:lang="eng" type="license">
+                  <body>
+                     <p>
+                        <hi>Licenſed</hi>
+                     </p>
+                     <closer>
+                        <date>September the 15th. 1687.</date>
+                     </closer>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. Aſtwood</hi> for the Authour. 1687.</p>
+            <pb facs="tcp:32913:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
